@@ -1,6 +1,3 @@
-# etf-portfolio-analytics
-Python-based ETF portfolio analytics project covering performance, risk metrics, drawdowns, correlations and portfolio comparison.
-
 # ETF Portfolio Analytics
 
 A Python-based portfolio analytics project for comparing exchange-traded funds (ETFs) by performance, risk, drawdowns, correlations, and portfolio allocation.
